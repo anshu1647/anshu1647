@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 BCA Student / Graduate<br>💻 Interested in DATA ANYLIST & DATA SCIENCE<br>🐍 Currently working with Python<br>🌐 Learning  ADVANCE PYTHON, DEEP LEARNING, MACHINE LEARNING, SQL & POWER POINT,MS EXCEL<br>🗄️ Working with MySQL, PostgreSQL & JUPYTER NOTE BOOK,GOGGLE COLLAB,VS CODE,IDEAL PYTHON<br>☕ Familiar with PYTHON ADVANCE,SQL, MS EXCEL, POWER BI ,DEEP LEARNING and MACHINE LEARNING<br>📊 Exploring Data Analysis ,DATA SCIENCE with Python<br>🔧 Interested in building real-world projects<br>📚 Always learning and improving my programming skills
+🎓 BCA Student / Graduate<br>💻 Interested in DATA ANALYTICS & DATA SCIENCE<br>🐍 Currently working with Python<br>🌐 Learning  ADVANCE PYTHON, DEEP LEARNING, MACHINE LEARNING, SQL,POWER POINT & MS EXCEL<br>🗄️ Working with MySQL, PostgreSQL & JUPYTER NOTE BOOK,GOGGLE COLLAB,VS CODE,IDEAL PYTHON<br>☕ Familiar with PYTHON ADVANCE,SQL, MS EXCEL, POWER BI ,DEEP LEARNING and MACHINE LEARNING<br>📊 Exploring Data Analysis ,DATA SCIENCE with PYTHON<br>🔧 Interested in building real-world projects<br>📚 Always learning and improving my programming skills
 
 
 ## 🌐 Socials:
